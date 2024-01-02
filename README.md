@@ -19,7 +19,7 @@
 
 🚀 Here are some of my notable projects:
 
-- [Project 1] - Fashion clothes Recognition with F-NIST dataset.
+- [Project 1] - Fashion clothes classification with FNIST dataset.
 
 Feel free to explore my repositories for more!
 
