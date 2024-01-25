@@ -20,6 +20,7 @@
 🚀 Here are some of my notable projects:
 
 - [Project 1] - Fashion clothes classification with FNIST dataset.
+- [Project 2] - A Flask web service implementation for deploying a Keras-based VGG neural network.
 
 Feel free to explore my repositories for more!
 
